@@ -1,0 +1,18 @@
+[
+ {
+   "id": 1,
+   "category": "sports",
+   “content”: "Sports related"
+ },
+ {
+   "id": 2,
+   "category": "health",
+   "content": "health related"
+ },
+ {
+   "id": 3
+   "category": "politics",
+   "content": "politics related"
+ }
+ 
+]
