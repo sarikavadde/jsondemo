@@ -11,9 +11,14 @@
         "content": "health related"
       },
       {
-        "id": 1,
+        "id": 3,
         "category": "politics",
         "content": "politics related"
+      },
+	  {
+        "id": 4,
+        "category": "business",
+        "content": "business related"
       }
     ]
 }
